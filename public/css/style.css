@@ -44,14 +44,14 @@ body {
     font-size: 18px;
     width: 100%;
     font-family: 'Roboto', sans-serif;
-    background-color: #002a7e;
+    background-color: #2f0095;
 }
 
 .header {
     position: relative;
     vertical-align: middle;
     width: 100%;
-    background-color: #FFFFff;
+    background-color: #ffe7ce;
     padding-top: 5px;
 }
 
@@ -115,7 +115,7 @@ body {
 
 .main__top-block {
     position: relative;
-    background-image: url("/static/jpg/top-bg.jpg");
+    background-image: url("jpg/top-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -180,7 +180,7 @@ body {
 
 .bx-wrapper {
     display: inline-block;
-    background-color: #ffffff;
+    background-color: #fff2e4;
     padding: 23px 7px;
     position: relative;
     text-align: left;
@@ -244,7 +244,7 @@ body {
 }
 
 .prev-btn:hover:before {
-    background-image: url(/static/png/hover-1.png);
+    background-image: url(png/hover-1.png);
     background-size: auto;
     background-position: center;
     background-repeat: no-repeat;
@@ -252,7 +252,7 @@ body {
 }
 
 .next-btn:hover:before {
-    background-image: url(/static/png/hover-1.png);
+    background-image: url(png/hover-1.png);
     border: 2px solid #e71b22;
     background-size: auto;
     background-position: center;
@@ -518,10 +518,6 @@ body {
 
     .slider__question {
         margin-left: 15px;
-    }
-
-.main__down-text {
-        width: 164px;
     }
 }
 
