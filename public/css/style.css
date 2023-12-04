@@ -519,6 +519,10 @@ body {
     .slider__question {
         margin-left: 15px;
     }
+
+.main__down-text {
+        width: 164px;
+    }
 }
 
 @media (min-width: 300px) {
