@@ -115,7 +115,7 @@ body {
 
 .main__top-block {
     position: relative;
-    background-image: url("../jpg/top-bg.jpg");
+    background-image: url("/static/jpg/top-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -244,7 +244,7 @@ body {
 }
 
 .prev-btn:hover:before {
-    background-image: url(../png/hover-1.png);
+    background-image: url(/static/png/hover-1.png);
     background-size: auto;
     background-position: center;
     background-repeat: no-repeat;
@@ -252,7 +252,7 @@ body {
 }
 
 .next-btn:hover:before {
-    background-image: url(../png/hover-1.png);
+    background-image: url(/static/png/hover-1.png);
     border: 2px solid #e71b22;
     background-size: auto;
     background-position: center;
